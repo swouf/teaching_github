@@ -1,4 +1,4 @@
-# Github pour le TM
+# Github pour le TM :-)
 
 Ce document se trouve ici : [https://github.com/swouf/teaching_github/blob/main/README.md](https://github.com/swouf/teaching_github/blob/main/README.md)
 
